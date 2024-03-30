@@ -7,7 +7,7 @@
             display: flex;
             justify-content: center;
             align-items: center;
-            height: 200vh;
+            height: 100vh;
             flex-direction: column;
             background-color: #f0f0f0;
         }
