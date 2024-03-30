@@ -13,117 +13,144 @@
 
 <div class="slideshow-container">
   <div class="slide">
-    <h2>Slide 1 Title</h2>
-    <p>Their smile brightens your day.
-They listen to you without judgment.
-You feel at peace when you're with them.
-They make you laugh.
-You share common interests.
-They support your dreams.
-They are kind to everyone.
-Their presence is comforting.
-You trust them completely.
-They encourage you to be your best self.
-They understand you like no one else.
-You share great chemistry.
-They respect your boundaries.
-You can be yourself around them.
-They're intelligent and you learn from them.
-They're creative and inspire you.
-They show you love in the way you need.
-They remember small details about you.
-They're loyal to you.
-They handle conflicts with maturity.
-They're generous with their time and attention.
-They make you feel wanted and loved.
-They're patient with you.
-They motivate you to achieve your goals.
-They share your values and beliefs.
-They make sacrifices for your happiness.
-They're emotionally available.
-They make mundane tasks enjoyable when you're together.
-They apologize and admit when they're wrong.
-They celebrate your achievements.
-They share their fears and vulnerabilities with you.
-They make you feel safe.
-They're passionate about their interests.
-They respect your opinions, even when differing.
-You have fun together, no matter what you're doing.
-They're humble and can laugh at themselves.
-They're optimistic and uplift your spirits.
-They're reliable; you can always count on them.
-They cherish the time spent with you.
-They make an effort with your friends and family.
-They're thoughtful and surprise you with small gestures.
-They communicate openly and honestly.
-They're strong and resilient.
-They have a great sense of humor that matches yours.
-They encourage you to try new things.
-They're attentive to your needs and desires.
-They're respectful to all.
-They have a beautiful soul.
-They help you grow as a person.
-They're your best friend.
-They love you unconditionally.
-They make you feel confident.
-They're dedicated to making the relationship work.
-They give you space when you need it.
-They share their joys and sorrows with you.
-They make you want to be a better person.
-They're beautiful to you in every way.
-They make a great team with you.
-They accept your flaws.
-They make your heart skip a beat.
-They're passionate about life.
-They help you overcome challenges.
-They make you feel young and alive.
-They're your rock during hard times.
-They make you feel important and valued.
-They have a good heart.
-They're ambitious and hardworking.
-They inspire you with their achievements.
-They're caring and empathetic.
-They make every moment special.
-They give you their undivided attention.
-They're warm and welcoming to everyone.
-They keep their promises.
-They have an amazing voice you could listen to forever.
-They make you feel like you're home.
-They share their life with you.
-They make an effort to understand your passions.
-They're spontaneous and adventurous.
-They're disciplined and organized.
-They always look for ways to make you happy.
-They're fair and just.
-They're confident and self-assured.
-They bring out the best in you.
-They're always there to comfort you.
-They have a unique perspective on life.
-They're good with children.
-They make you feel secure in your future together.
-They're honest and forthright.
-They have a calming presence.
-They're responsible and dependable.
-They make you feel like the most attractive person.
-They're insightful and wise.
-They have a great relationship with their family.
-They're open-minded and willing to learn.
-They have a zest for life.
-They're protective of you in a loving way.
-They make you a priority in their life.
-They have a beautiful smile that melts your heart.
-They make you feel loved in ways no one else has.
-They're your soulmate, and with them, you feel complete.</p>
+    <p>This is the first piece of information.</p>
   </div>
   <div class="slide">
-    <h2>Slide 2 Title</h2>
     <p>This is the second piece of information.</p>
   </div>
   <div class="slide">
-    <h2>Slide 3 Title</h2>
     <p>This is the third piece of information.</p>
   </div>
-  <!-- Add more slides as needed -->
+  <div class="slide">
+    <p>They encourage you to be your best self.</p>
+  </div>
+  <div class="slide">
+    <p>They understand you like no one else.</p>
+  </div>
+  <div class="slide">
+    <p>You share great chemistry.</p>
+  </div>
+  <div class="slide">
+    <p>They respect your boundaries.</p>
+  </div>
+  <div class="slide">
+    <p>You can be yourself around them.</p>
+  </div>
+  <div class="slide">
+    <p>They're intelligent and you learn from them.</p>
+  </div>
+  <div class="slide">
+    <p>They're creative and inspire you.</p>
+  </div>
+  <div class="slide">
+    <p>They show you love in the way you need.</p>
+  </div>
+  <div class="slide">
+    <p>They remember small details about you.</p>
+  </div>
+  <div class="slide">
+    <p>They're loyal to you.</p>
+  </div>
+  <div class="slide">
+    <p>They handle conflicts with maturity.</p>
+  </div>
+  <div class="slide">
+    <p>They're generous with their time and attention.</p>
+  </div>
+  <div class="slide">
+    <p>They make you feel wanted and loved.</p>
+  </div>
+  <div class="slide">
+    <p>They're patient with you.</p>
+  </div>
+  <div class="slide">
+    <p>They motivate you to achieve your goals.</p>
+  </div>
+  <div class="slide">
+    <p>They share your values and beliefs.</p>
+  </div>
+  <!-- Assume continuation of similar divs for each reason -->
+  <div class="slide">
+    <p>They have a zest for life.</p>
+  </div>
+  <div class="slide">
+    <p>They're protective of you in a loving way.</p>
+  </div>
+  <div class="slide">
+    <p>They make you a priority in their life.</p>
+  </div>
+  <div class="slide">
+    <p>They have a beautiful smile that melts your heart.</p>
+  </div>
+  <div class="slide">
+    <p>They make you feel loved in ways no one else has.</p>
+  </div>
+  <div class="slide">
+    <p>They're your soulmate, and with them, you feel complete.</p>
+  </div>
+    <!-- Other slides have been defined above -->
+  <div class="slide">
+    <p>They're generous with their time and attention.</p>
+  </div>
+  <div class="slide">
+    <p>They make you feel wanted and loved.</p>
+  </div>
+  <div class="slide">
+    <p>They're patient with you.</p>
+  </div>
+  <div class="slide">
+    <p>They motivate you to achieve your goals.</p>
+  </div>
+  <div class="slide">
+    <p>They share your values and beliefs.</p>
+  </div>
+  <!-- Continue adding slides here -->
+
+  <div class="slide">
+    <p>They're protective of you in a loving way.</p>
+  </div>
+  <div class="slide">
+    <p>They make you a priority in their life.</p>
+  </div>
+  <div class="slide">
+    <p>They have a beautiful smile that melts your heart.</p>
+  </div>
+  <div class="slide">
+    <p>They make you feel loved in ways no one else has.</p>
+  </div>
+  <div class="slide">
+    <p>They're your soulmate, and with them, you feel complete.</p>
+  </div>
+  <div class="slide">
+    <p>Their smile brightens your day.</p>
+  </div>
+  <div class="slide">
+    <p>They listen to you without judgment.</p>
+  </div>
+  <div class="slide">
+    <p>You feel at peace when you're with them.</p>
+  </div>
+  <div class="slide">
+    <p>They make you laugh.</p>
+  </div>
+  <div class="slide">
+    <p>You share common interests.</p>
+  </div>
+  <div class="slide">
+    <p>They support your dreams.</p>
+  </div>
+  <div class="slide">
+    <p>They are kind to everyone.</p>
+  </div>
+  <div class="slide">
+    <p>Their presence is comforting.</p>
+  </div>
+  <div class="slide">
+    <p>You trust them completely.</p>
+  </div>
+  <div class="slide">
+    <p>They encourage you to be your best self.</p>
+  </div>
 </div>
 
 <script>
