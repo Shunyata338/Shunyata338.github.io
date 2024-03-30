@@ -10,14 +10,6 @@
             height: 100vh;
             flex-direction: column;
             background-color: #f0f0f0;
-            margin: 0;
-            padding: 0;
-        }
-        .container {
-            text-align: center;
-            width: 100%;
-            position: absolute;
-            top: 10%;
         }
         .title {
             font-size: 72px; /* Increased font size */
@@ -35,7 +27,6 @@
     </style>
 </head>
 <body>
-     <div class="container">
     <div class="title">100 Reasons Why I Love You</div>
     <div class="reason" id="reason"></div>
 
