@@ -20,7 +20,7 @@
             top: 10%;
         }
         .title {
-            font-size: 36px; /* Increased font size */
+            font-size: 72px; /* Increased font size */
             color: #333;
             margin: 0 0 20px 0; /* Adjusted to remove bottom margin */
         }
