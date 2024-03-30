@@ -99,17 +99,6 @@
             " you make every moment special",
             " you give you your undivided attention",
             " you're warm and welcoming to everyone",
-            " you keep your promises",
-            " you have an amazing voice you could listen to forever",
-            " you make you feel like you're home",
-            " you share your life with you",
-            " you make an effort to understand my passions",
-            " you're spontaneous and adventurous",
-            “ you're disciplined and organized",
-            " you always look for ways to make you happy",
-            " you're fair and just",
-
-
             // Add other reasons here, ensure to use straight quotes
         ];
 
