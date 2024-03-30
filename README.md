@@ -147,7 +147,10 @@
         // Function to display a random reason
         function displayRandomReason() {
             const randomIndex = Math.floor(Math.random() * reasons.length);
-            document.getElementById('reason').innerHTML = reasons[randomIndex];
+            const randomColorIndex = Math.floor(Math.random() * colors.length);
+            const reasonElement = document.getElementById('reason');
+            reasonElement.innerHTML = reasons[randomIndex];
+            reasonElement.style.backgroundColor = colors[randomColorIndex];
         }
 
         // Call the function when the page loads
