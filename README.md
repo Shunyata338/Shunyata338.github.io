@@ -27,13 +27,28 @@
     <script>
         // Array of reasons
         const reasons = [
-            "your smile brightens my day",
+            "your smile brightens my day", 
+            " you listen to you without judgment",
+            " I feel at peace when you're with them",
+            " you make you laugh",
+            " I share common interests",
+            " you support my dreams",
+            " you are kind to everyone",
+            " your presence is comforting",
+            " I trust them completely",
+            " you encourage me to be my best self",
+            " you understand you like no one else",
+            " I share great chemistry",
+            " you respect my boundaries",
+            " I can be myself around them",
+            " you're intelligent and you learn from them",
+
             // Add other reasons here, ensure to use straight quotes
         ];
 
         // Array of background colors as strings
         const colors = [
-            "#6E238A", 
+            "#6E238A", "#0640C5", "#F31810", "#406854", "#86DCC6", "#8304B3", "#52ABC0", "#A4CA04", "#73D99F", "#8245EA",
          // Add the rest of the colors here, enclosed in quotes
         ];
 
