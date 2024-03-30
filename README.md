@@ -10,6 +10,19 @@
             height: 100vh;
             flex-direction: column;
             background-color: #f0f0f0;
+            margin: 0;
+            padding: 0;
+        }
+        .container {
+            text-align: center;
+            width: 100%;
+            position: absolute;
+            top: 10%;
+        }
+        .title {
+            font-size: 36px; /* Increased font size */
+            color: #333;
+            margin: 0 0 20px 0; /* Adjusted to remove bottom margin */
         }
         .reason {
             text-align: center;
@@ -22,6 +35,7 @@
     </style>
 </head>
 <body>
+     <div class="container">
     <div class="title">100 Reasons Why I Love You</div>
     <div class="reason" id="reason"></div>
 
