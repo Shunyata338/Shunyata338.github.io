@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
 <meta charset="UTF-8">
@@ -25,7 +24,6 @@
     <h2>Slide 3 Title</h2>
     <p>This is the third piece of information.</p>
   </div>
-  <!-- Add more slides as needed -->
 </div>
 
 <script>
