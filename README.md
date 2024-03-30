@@ -29,19 +29,19 @@
         const reasons = [
             "your smile brightens my day", 
             " you listen to you without judgment",
-            " I feel at peace when you're with them",
+            " I feel at peace when you're with you",
             " you make you laugh",
             " I share common interests",
             " you support my dreams",
             " you are kind to everyone",
             " your presence is comforting",
-            " I trust them completely",
+            " I trust you completely",
             " you encourage me to be my best self",
             " you understand you like no one else",
             " I share great chemistry",
             " you respect my boundaries",
-            " I can be myself around them",
-            " you're intelligent and you learn from them",
+            " I can be myself around you",
+            " you're intelligent and you learn from you",
             " you're creative and inspire you",
             " you show your love in the way you need",
             " you remember small details about you",
@@ -64,7 +64,7 @@
             " I have fun together, no matter what you're doing",
             " you're humble and can laugh at yourself",
             " you're optimistic and uplift my spirits",
-            " you're reliable; you can always count on them",
+            " you're reliable; you can always count on you",
             " you cherish the time spent with you",
             " you make an effort with my friends and family",
             " you're thoughtful and surprise you with small gestures",
@@ -105,7 +105,7 @@
         // Array of background colors as strings
         const colors = [
             "#6E238A", "#0640C5", "#F31810", "#406854", "#86DCC6", "#8304B3", "#52ABC0", "#A4CA04", "#73D99F", "#8245EA","#D87D5B", "#FB05BE", "#9D1384", "#11CCFC", "#60590F", "#B4C1A2", "#58E707", "#B692F8", "#898E50", "#A53149",
-            "#A7257C", "#08BB15", "#F18EA0", "#EF951A", "#BAB769", "#C4F38C", "#9CF760", "#9222C8", "#FCF938", "#F16F3D", "#622490",
+            "#A7257C", "#08BB15", "#F18EA0", "#EF951A", "#BAB769", "#C4F38C", "#9CF760", "#9222C8", "#78496F", "#F16F3D", "#622490",
          // Add the rest of the colors here, enclosed in quotes
         ];
 
