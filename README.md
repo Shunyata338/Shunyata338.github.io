@@ -86,7 +86,7 @@
             " you're beautiful to you in every way",
             " you make a great team with you",
             " you accept my flaws",
-             " you make my heart skip a beat",
+            " you make my heart skip a beat",
             " you're passionate about life",
             " you help you overcome challenges",
             " you make you feel young and alive",
@@ -108,25 +108,6 @@
             “ you're disciplined and organized",
             " you always look for ways to make you happy",
             " you're fair and just",
-            " you're confident and self-assured",
-            " you bring out the best in you",
-            " you're always there to comfort you",
-            " you have a unique perspective on life",
-            " you're good with children",
-            " you make you feel secure in my future together",
-            “ you're honest and forthright",
-            " you have a calming presence",
-            " you're responsible and dependable",
-            " you make you feel like the most attractive person",
-            " you're insightful and wise",
-            " you have a great relationship with your family",
-            " you're open-minded and willing to learn",
-            " you have a zest for life",
-            " you're protective of me in a loving way",
-            " you make you a priority in your life",
-            " you have a beautiful smile that melts my heart",
-            " you make you feel loved in ways no one else has",
-            " you're my soulmate, and with them, you feel complete",
 
 
             // Add other reasons here, ensure to use straight quotes
@@ -135,8 +116,7 @@
         // Array of background colors as strings
         const colors = [
             "#6E238A", "#0640C5", "#F31810", "#406854", "#86DCC6", "#8304B3", "#52ABC0", "#A4CA04", "#73D99F", "#8245EA","#D87D5B", "#FB05BE", "#9D1384", "#11CCFC", "#60590F", "#B4C1A2", "#58E707", "#B692F8", "#898E50", "#A53149",
-            "#A7257C", "#08BB15", "#F18EA0", "#EF951A", "#BAB769", "#C4F38C", "#9CF760", "#9222C8", "#FCF938", "#F16F3D", "#622490", "#8FD52B", "#8FB8B1", "#5B5AEE", "#660068", "#277538", "#8572C4", "#3E1166", "#21C3A9", "#6F9296",
-            "#763A82", "#333B67", "#143844", "#5141D2", "#2AE02E", "#EAE499", "#FE5CF2", "#E06413", "#E6AC97", "#AFE09F",
+            "#A7257C", "#08BB15", "#F18EA0", "#EF951A", "#BAB769", "#C4F38C", "#9CF760", "#9222C8", "#FCF938", "#F16F3D", "#622490",
          // Add the rest of the colors here, enclosed in quotes
         ];
 
